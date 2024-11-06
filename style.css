@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    overflow: hidden;
+}
+    
+.container{
+    display: flex;
+    column-gap: 1000px;
+    background-color: white;
+}
+
+.box1{
+    font-size: 32.36px;
+    position: relative;
+    left: 20px;
+}
+
+.box2{
+    font-size: 32.36px;
+    position: relative;
+    right: 65px;
+
+}
+
+img{
+    height: 250px;
+    border-radius:20%;
+}
+
+body{
+    font-family: Verdana;
+    text-align: center;
+    background-color: lightblue;
+    padding-bottom: 100px;
+}
+
+.blankspace {
+    margin-bottom: 50px;
+}
+
+footer{
+    margin: 5px;
+}
+
+.spacebottom {
+    margin-bottom: 10px;
+}
+
+.about{
+    font-size: 35px;
+    border: 3px solid #fff;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    position: relative;
+    left: 600px;
+}
+
+.click{
+    color: white;
+}
+
+p{
+    width: 300px;
+    text-align: left;
+    position: relative;
+    left: 550px;
+}
